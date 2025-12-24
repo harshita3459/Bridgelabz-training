@@ -14,13 +14,13 @@ BridgeLabz-Training
 |     |   |   +-> On 19 Dec 2025 -> 40 Questions
 |     |   |
 |     |   +- arrays
-|     |   |   +-> On 20 Dec 2025 -> 10 Questions (50% of both levels)
+|     |   |   +-> On 20 Dec 2025 -> 20 Questions
 |     |   |
 |     |   +- strings
-|     |   |   +-> On 22 Dec 2025 -> 15 Questions (50% of each level)
+|     |   |   +-> On 22 Dec 2025 -> 30 Questions
 |     |   |
 |     |   +- methods
-|     |   |   +-> On 23 Dec 2025 -> 19 Questions (50% of each level)
+|     |   
 |     |
 |     +--leetcode-codebase
 |     |   +-> On 17 Dec 2025 -> 5 Basic Questions
@@ -28,6 +28,7 @@ BridgeLabz-Training
 |     +--scenario-base
 
 ```
+
 
 
 
