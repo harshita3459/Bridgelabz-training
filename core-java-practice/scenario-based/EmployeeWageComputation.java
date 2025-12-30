@@ -23,10 +23,17 @@ public class EmployeeWageComputation {
         
         // UC 4: switch-case 
         String attendance;
+        String employee;
         switch(empCheck) {
         case 1:
-            empHours = 8;   // UC 3: Part Time Employee
+            empHours = 4;   // UC 3: Part Time Employee
+            employee = "Part-Time";
             attendance = "Present";  
+            break;
+        case 2:
+        	empHours = 8;   // Full Time Employee
+            employee = "Full-Time";
+        	attendance = "Present";
             break;
         default:
             empHours = 0;
@@ -36,7 +43,7 @@ public class EmployeeWageComputation {
         
         // UC 2: calculate daily wage
         int dailyWage = empHours*wagesPerHour;
-        System.out.println("Day "+totalWorkingDays+" | Attendance: " + attendance +" | Working Hours: "+empHours+" | Daily Wage: ₹"+dailyWage);
+        System.out.println("Day "+totalWorkingDays+" | Type: "+employee+" | Attendance: "+attendance+" | Working Hours: "+empHours+" | Daily Wage: ₹"+dailyWage);
         }
         
         // UC 5: Calculate Monthly Wage
