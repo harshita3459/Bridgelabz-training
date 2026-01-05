@@ -1,35 +1,155 @@
+# BridgeLabz-Training
+# Daily Progress Log – BridgeLabz
+
+## Overview
+This repository documents the daily progress of tasks completed during the BridgeLabz Training Program.
+
+Progress is recorded on a weekly and daily basis, with a focus on Java fundamentals, problem-solving, and programming concepts.  
+Each section highlights the learning objectives and tasks completed on specific dates.
+
+---
+## Repository Details
+
+- Repository Name: BridgeLabz-Training
+- Primary Language: Java
+- IDE Used: Eclipse 
+- Version Control: Git & GitHub
+
+---
+## Folder Structure
 ```
 BridgeLabz-Training
 |
 +--main(branch)
 |  +- README file
 |
-+--core-java-practice(branch)
-|  +--core-java-practice(folder name)
-|     +--gcr-codebased
-|     |   +- programming_elements
-|     |   |   +-> On 18 Dec 2025 -> 21 Basic Questions
-|     |   |
-|     |   +- controls_flows
-|     |   |   +-> On 19 Dec 2025 -> 40 Questions
-|     |   |
-|     |   +- arrays
-|     |   |   +-> On 20 Dec 2025 -> 20 Questions
-|     |   |
-|     |   +- strings
-|     |   |   +-> On 22 Dec 2025 -> 30 Questions
-|     |   |
-|     |   +- methods
-|     |   
++--core-java-practice (Branch)
 |     |
-|     +--leetcode-codebase
-|     |   +-> On 17 Dec 2025 -> 5 Basic Questions
+|     +--gcr-codebased (Folder)
+|     |   +- programming_elements
+|     |   +- controls_flows
+|     |   +- arrays
+|     |   +- strings
+|     |   +- methods
+|     |   +- extra Strings
+|     |   +- built-in-function
+|     +--leetcode-codebase (Folder)
 |     |  
-|     +--scenario-base
-
+|     +--scenario-base (Folder)
+|     |
++--oops-practice (Branch)
+|     |
+|     +--gcr-codebase (Folder)
+|     |  +- class and objects
+|     |  +- constructor_variables_access_modifiers
+|     |  +- this_static_final_instanceOf
+|     |  +- object_modelling
+|     |  +- inheritance
+|     |  
++--review
+|
 ```
+## Week 1: Getting Started with Java and Its Basics
 
+### Day 1 :- 16-Dec-2025 (Tuesday) [Click here](https://github.com/harshita3459/BridgeLabz-Training/tree/core-java-practice)
 
+- Installed and configured Eclipse IDE
+- Set up a GitHub repository
+- Solved basic Java practice problems
 
+### Day 2 :- 17-Dec-2025 (Wednesday) [Click here](https://github.com/harshita3459/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
+- Solved elementary problems from LeetCode
+- Practiced Java input/output and conditionals
 
+### Day 3 :- 18-Dec-2025 (Thursday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/programming%20elements)
+
+- Completed Level 1 and Level 2 Programming Elements problems
+
+### Day 4 :- 19-Dec-2025 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/programming%20elements)
+
+- Studied Java history and features
+- Solved elementary Java problems
+
+### Day 5 :- 20-Dec-2025 (Saturday) [Click here](https://github.com/harshita3459/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-code-codebase/control-flow)
+
+- Completed Level 3 assignments of the Control Flow module
+- Solved complex problems using nested if-else and switch statements
+- Applied loops, conditions, and logical operators for real-world scenarios
+
+### Day 6 :- 21-Dec-2025 (Sunday) [Click here](https://github.com/harshita3459/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-code-codebase/arrays)
+
+- Completed Level 1 and Level 2 assignments of the Arrays module
+- Learned array declaration, initialization, and traversal in Java
+- Improved logic-building and data handling through array operations
+
+## Week 1:  Core Programming
+
+### Day 7 :- 22-Dec-2025 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/strings)
+
+- Completed Level 1 assignments of the Strings module
+- Learned string creation, immutability, and common string methods in Java
+- Practiced string traversal, comparison, concatenation, and basic manipulations
+
+### Day 8 :- 23-Dec-2025 (Tuesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/strings)
+
+- Completed Level 2 and Level 3 assignments of the Strings module
+- Worked on advanced string operations like pattern logic, character frequency, and substrings
+- Solved complex problems by combining multiple string concepts with optimized logic
+
+### Day 9 :- 24-Dec-2025 (Wednesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/methods)
+
+- Completed Level 1 assignments of the Methods module
+- Learned method declaration, invocation, parameters, return types, and overloading
+- Practiced breaking logic into reusable methods for better modularity and readability
+
+### Day 10 :- 26-Dec-2025 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/methods)
+
+- Completed Level 2 and Level 3 assignments of the Methods module
+- Strengthened understanding of method declaration, invocation, parameters, return types, and overloading
+- Applied reusable methods to improve code modularity and readability
+
+### Day 11 :- 27-Dec-2025 (Saturday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/extra)
+
+- Completed extra questions on strings
+- Learned understanding of String manipulation, logic building, and use of core Java String methods.
+
+### Week 3: scenario-based problems, basic OOP concepts
+
+### Day 12 :- 29-Dec-2025 (Monday) [Click here: built-in-function ](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/built-in-functions) , [click here: scenario-based](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/scenario-based)
+
+- Completed assignments using Java built-in functions and predefined classes
+- Applied built-in methods to reduce manual logic and improve code efficiency
+- Solved additional practice questions and scenario-based problems in Java
+- Gained confidence in handling real-world scenarios and edge cases
+
+### Day 13 :- 30-Dec-2025 (Tuesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWageComputation.java), [Click here](https://github.com/harshita3459/Bridgelabz-training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadder.java)
+
+- Completed scenario-based problems for real-world understanding
+- Improved confidence in handling complex cases by revisiting and expanding practice problems
+
+### Day 14 :- 31-Dec-2025 (Wednesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
+
+- Created new branch oops-practice
+- Practiced basic OOPS concepts through coding problems.
+- Implemented programs using Classes and Objects
+
+### Day 14 :- 1-Jan-2026 (Thursday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/constructors_variables_access%20modifiers)
+
+- Practiced Constructors, Instance vs. Class Variables and Access Modifiers
+- Learn about object initialization and accessing them.
+
+### Day 15 :- 2-Jan-2026 (Friday) [Click here: keywords](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/this_static_final_instanceof), [Click here: object-modelling](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/object_modelling)
+
+- Practiced programs using this, static, and final keywords and the instanceof operator
+- Improve constructor clarity, class-level data shared across objects
+- Protect critical data from modification and perform safe type checking before casting objects
+- Studied and applied Object-Oriented Design Principles
+
+### Day 16 :- 3-Jan-2026 (Saturday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+
+- Implemented inheritance to promote code reusability and reduce redundancy across related classes
+- Designed parent and child class relationships using the extends keyword
+- Used super keyword to access parent class constructors, methods, and variables
+- Practiced multilevel and hierarchical inheritance through real-world examples
+- Improved program structure by following IS-A relationship principles
