@@ -83,7 +83,7 @@ BridgeLabz-Training
 - Learned array declaration, initialization, and traversal in Java
 - Improved logic-building and data handling through array operations
 
-## Week 1:  Core Programming
+## Week 2:  Core Programming
 
 ### Day 7 :- 22-Dec-2025 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/strings)
 
@@ -114,7 +114,7 @@ BridgeLabz-Training
 - Completed extra questions on strings
 - Learned understanding of String manipulation, logic building, and use of core Java String methods.
 
-### Week 3: scenario-based problems, basic OOP concepts
+## Week 3:  Scenario-based problems, basic OOP Concept
 
 ### Day 12 :- 29-Dec-2025 (Monday) [Click here: built-in-function ](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/gcr-code-codebase/built-in-functions) , [click here: scenario-based](https://github.com/harshita3459/Bridgelabz-training/tree/core-java-practice/core-java-practice/scenario-based)
 
@@ -153,3 +153,9 @@ BridgeLabz-Training
 - Used super keyword to access parent class constructors, methods, and variables
 - Practiced multilevel and hierarchical inheritance through real-world examples
 - Improved program structure by following IS-A relationship principles
+
+### Day 17 :- 5-Jan-2025 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation_abstraction_polymorphism?authuser=0)
+
+- Applied OOP principles like encapsulation, abstraction, interfaces, and polymorphism to design clean, secure, and modular code
+- Improved code flexibility and reusability by using abstract classes, interfaces, and method overriding
+- Enhanced maintainability by hiding implementation details and using dynamic method binding
