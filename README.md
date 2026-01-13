@@ -168,12 +168,28 @@ BridgeLabz-Training
 - Practiced multilevel and hierarchical inheritance through real-world examples
 - Improved program structure by following IS-A relationship principles
 
-## Week 4:  OOP Pillars, scenario-based, story-based, and basic dsa
+## Week 4:  OOP Pillars, scenario-based, story-based, and basic DSA
 
-### Day 17 :- 5-Jan-2025 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation_abstraction_polymorphism?authuser=0)
+### Day 17 :- 5-Jan-2026 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation_abstraction_polymorphism?authuser=0)
 
 - Applied OOP principles like encapsulation, abstraction, interfaces, and polymorphism to design clean, secure, and modular code
 - Improved code flexibility and reusability by using abstract classes, interfaces, and method overriding
 - Enhanced maintainability by hiding implementation details and using dynamic method binding
 
+### Day 18 :- 6-Jan-2026 (Tuesday) [Click here: Leetcode](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/leetcode-codebase?authuser=0), [Click here: Scenario](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/scenario-based?authuser=0)
 
+- Practiced scenario-based questions focusing on real-world problem solving
+- Solved LeetCode problems to strengthen problem-solving skills
+- Enhances logical approach and code readability
+
+### Day 19 :- 8-Jan-2026 (Thursday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/scenario-based/cab_booking?authuser=0), [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/scenario-based/online_banking?authuser=0)
+
+- Practiced story-based problems to improve real-world problem understanding
+- Improves logical thinking and scenario-to-code mapping
+- Implemented and revised CRUD operations
+
+### Day 19 :- 9-Jan-2026 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/dsa_practice/dsa_practice/gcr-codebase/linkedlist?authuser=0)
+
+- Created a new Branch dsa-practice to organize dsa-related work
+- Practiced Linked List concepts, including basic operations (insertion, deletion, traversal)
+- Understanding node structure and pointers
