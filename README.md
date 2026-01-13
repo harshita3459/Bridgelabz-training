@@ -33,6 +33,7 @@ BridgeLabz-Training
 |     |   +- methods
 |     |   +- extra Strings
 |     |   +- built-in-function
+|     |
 |     +--leetcode-codebase (Folder)
 |     |  
 |     +--scenario-base (Folder)
@@ -45,9 +46,22 @@ BridgeLabz-Training
 |     |  +- this_static_final_instanceOf
 |     |  +- object_modelling
 |     |  +- inheritance
-|     |  
+|     |  +- encapsulation_abstraction_polymorphism
+|     |
+|     +--leetcode-codebase (Folder)
+|     |
+|     +--scenario-based (Folder)
+|     |
++--dsa-practice (Branch)
+|     |
+|     +--gcr-codebase (Folder)
+|     |  +- linkedlist
+|     |
+|     +--leetcode-codebase (Folder)
+|     |
+|     +--scenario-based (Folder)
+|     |
 +--review
-|
 ```
 ## Week 1: Getting Started with Java and Its Basics
 
@@ -161,4 +175,5 @@ BridgeLabz-Training
 - Applied OOP principles like encapsulation, abstraction, interfaces, and polymorphism to design clean, secure, and modular code
 - Improved code flexibility and reusability by using abstract classes, interfaces, and method overriding
 - Enhanced maintainability by hiding implementation details and using dynamic method binding
+
 
