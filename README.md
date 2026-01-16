@@ -188,8 +188,32 @@ BridgeLabz-Training
 - Improves logical thinking and scenario-to-code mapping
 - Implemented and revised CRUD operations
 
-### Day 19 :- 9-Jan-2026 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/dsa_practice/dsa_practice/gcr-codebase/linkedlist?authuser=0)
+### Day 20 :- 9-Jan-2026 (Friday)
 
 - Created a new Branch dsa-practice to organize dsa-related work
-- Practiced Linked List concepts, including basic operations (insertion, deletion, traversal)
+- Learned Linked List concepts, including basic operations (insertion, deletion, traversal)
 - Understanding node structure and pointers
+
+## Week 5: Scenario-based questions and DSA Concepts
+
+### Day 21 :- 12-Jan-2026 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/scenario-based?authuser=0)
+
+- Practiced scenario-based questions based on OOPS and Core Java
+- Understood real-world problems
+
+### Day 22 :- 13-Jan-2026 (Tuesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/oops-practice/oops-practice/scenario-based?authuser=0)
+
+- Practiced More questions on scenario-based questions
+- Further understand how to build efficient solutions to real-world problems.
+
+### Day 23 :- 14-Jan-2026 (Wednesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/dsa_practice/dsa_practice/gcr-codebase/linkedlist?authuser=0)
+
+- Practiced questions on Linkedlist
+- Implemented operations like insertion, deletion, traversal, etc.
+
+### Day 24 :- 15-Jan-2026 (Thursday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/dsa_practice/dsa_practice/gcr-codebase/stack_queue_hashmap?authuser=0)
+
+- Practiced stack, queue, and hashmap questions
+- Implement stack operations (push, pop, peek)
+- Implement a queue using stack
+- Insert, update, and delete elements in HashMap
