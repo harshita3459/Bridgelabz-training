@@ -215,5 +215,11 @@ BridgeLabz-Training
 
 - Practiced stack, queue, and hashmap questions
 - Implement stack operations (push, pop, peek)
-- Implement a queue using stack
+- Implement a queue using a stack
 - Insert, update, and delete elements in HashMap
+
+### Day 25 :- 16-Jan-2026 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/dsa_practice/dsa_practice/gcr-codebase/sorting_algorithm?authuser=0)
+
+- Implemented sorting algorithms from scratch
+- Compared time and space complexities
+- Analyzed best, average, and worst-case scenarios
