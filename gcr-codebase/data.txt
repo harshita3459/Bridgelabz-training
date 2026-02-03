@@ -1,0 +1,4 @@
+java is a high-level languagae.
+it was developed by sun microsystem.
+it is somewhat similar to c++.
+it has automatic garbage collector.
