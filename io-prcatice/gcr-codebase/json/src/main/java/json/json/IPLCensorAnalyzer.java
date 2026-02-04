@@ -59,7 +59,7 @@ public class IPLCensorAnalyzer {
 
             if (line.trim().isEmpty()) continue; // skip empty lines
 
-            String[] parts = line.split(",");
+            String[] parts = line.split("[,\t]");
 
             if (parts.length < 7) {
                 System.out.println("Skipping invalid line: " + line);
