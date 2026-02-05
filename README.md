@@ -79,10 +79,21 @@ BridgeLabz-Training
 |     |  +- shopping_cart
 |     |  +- streams
 |     |  +- exception
+|     |  +- regex
+|     |  +- annotation
+|     |  +- reflection
+|     |  +- Junit
 |     |
 |     +--leetcode-codebase (Folder)
 |     |
 |     +-- scenario-based (Folder)
+|     |
++--io-prcatice (Branch)
+|     |
+|     +- gcr-codebase (Folder)
+|     |  +- csv_data_handling
+|     |  +- json_handling
+|     |
 +--review
 ```
 
@@ -286,6 +297,44 @@ BridgeLabz-Training
 - Focused on selecting the right collection based on real-world requirements
 - Better understanding of performance and memory trade-offs
 
+### Day 34 :- 29-Jan-2026 (Thursday) [Click here](https://github.com/harshita3459/Bridgelabz-training/blob/collections-practice/scenario-based/LexicalTwist.java?authuser=0)
+
+- Implemented a string-based puzzle involving two input words
+- Performed conditional string transformations and analysis based on given rules
+- Ensured case-insensitive comparison and proper input validation
+
+### Day 35 :- 30-Jan-2026 (Friday) [Click here](https://github.com/harshita3459/Bridgelabz-training/blob/collections-practice/scenario-based/FlipKeyLogical.java?authuser=0)
+
+- Implemented a string transformation utility to demonstrate ASCII-based filtering and string manipulation
+- Focused on data cleansing, reversal, and positional character transformation
+- Designed to reinforce concepts related to encoding, validation, and security-style logic
+
+### Day 36 :- 1-Feb-2026 (Sunday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/collections-practice/gcr-codebase/regex?authuser=0), [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/collections-practice/gcr-codebase/Junit?authuser=0)
+
+- Studied and practiced Regular Expressions (Regex) for pattern matching and validation
+- Created a Maven project to implement Junit
+- Learned JUnit for writing and executing unit tests in Java applications
+
+### Day 37 :- 2-Feb-2026 (Monday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/collections-practice/scenario-based?authuser=0), [Click here](https://github.com/harshita3459/Bridgelabz-training/blob/oops-practice/oops-practice/scenario-based/FutureLogistics.java?authuser=0)
+
+- Designed a logistics management system to calculate transport charges for different goods
+- Implemented object-oriented principles to handle multiple transport types
+- Applied scenario-based decision making for vehicle selection and pricing
+
+### Day 38 :- 3-Feb-2026 (Tuesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/collections-practice/gcr-codebase/annotation?authuser=0), [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/collections-practice/gcr-codebase/reflections?authuser=0)
+
+- Understand and implement Java Annotations and Reflection API.
+- Demonstrate how annotations can be defined and processed at runtime using reflection.
+- Highlights how metadata-driven programming can simplify complex logic and improve extensibility.
+
+### Day 39 :- 4-Feb-2026 (Wednesday) [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/io-practice/io-prcatice/gcr-codebase/csv_data_handling?authuser=0), [Click here](https://github.com/harshita3459/Bridgelabz-training/tree/io-practice/io-prcatice/gcr-codebase/json/src/main/java/json/json?authuser=0)
+
+- To read, write, and process data stored in CSV (Comma-Separated Values) format.
+- To understand how structured data can be handled efficiently using Java.
+- To perform basic data validation and manipulation on CSV records.
+- To read, write, and manipulate data stored in JSON (JavaScript Object Notation) format.
+- To perform parsing and validation of JSON data using Java.
 
 ## Author
 Harshita Agrawal
+
