@@ -1,4 +1,4 @@
-package adress_book;
+package address_book;
 
 public class AddressBookContact {
 	
