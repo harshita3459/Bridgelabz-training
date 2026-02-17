@@ -1,4 +1,4 @@
-package adress_book;
+package address_book;
 import java.util.ArrayList;
 
 public class AddressBookDAO {
